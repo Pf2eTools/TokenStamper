@@ -1,0 +1,6 @@
+numpy
+lxml
+opencv-python
+Pillow
+requests
+beautifulsoup4
